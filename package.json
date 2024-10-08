@@ -1,0 +1,16 @@
+{
+    "name": "ccp-app-sample",
+    "version": "1.0.0",
+    "description": "sample app for CCP",
+    "author": "Angel Ramirez <angel@cuemby.com>",
+    "license": "MIT",
+    "main": "app.js",
+    "keywords": [
+      "nodejs",
+      "bootstrap",
+      "express"
+    ],
+    "dependencies": {
+      "express": "^4.16.4"
+    }
+  }
